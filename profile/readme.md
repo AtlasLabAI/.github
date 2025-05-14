@@ -2,7 +2,7 @@
   <img src="/Banner.png" alt="Atlas Lab AI Banner" width="100%">
 </p>
 
-<h1 align="center">Atlas</h1>
+<h1 align="center">Atlas Labs</h1>
 
 <p align="center">
   Empowering the next generation of autonomous AI agents and tools.<br />
@@ -22,7 +22,7 @@
 
 ## 🌌 About Us
 
-**Atlas Lab AI** is a research-driven organization at the forefront of AI agent technology. We develop intelligent, secure, and memory-efficient autonomous agents that are capable of executing complex tasks, learning from experience, and interacting with the digital and real world.
+**Atlas Labs** is a research-driven organization at the forefront of AI agent technology. We develop intelligent, secure, and memory-efficient autonomous agents that are capable of executing complex tasks, learning from experience, and interacting with the digital and real world.
 
 Our mission is to push the boundaries of what's possible with AI autonomy by combining large language models, secure execution environments, real-time memory management, and real-world integrations.
 
