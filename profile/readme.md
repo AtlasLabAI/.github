@@ -2,7 +2,7 @@
   <img src="/Banner.png" alt="Atlas Lab AI Banner" width="100%">
 </p>
 
-<h1 align="center">Atlas Lab AI</h1>
+<h1 align="center">Atlas</h1>
 
 <p align="center">
   Empowering the next generation of autonomous AI agents and tools.<br />
