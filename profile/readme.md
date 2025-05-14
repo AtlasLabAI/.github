@@ -66,9 +66,9 @@ This project is licensed under the terms of the [MIT License](./LICENSE).
 
 ## 📬 Contact
 
-- 🌐 Website: [Coming Soon]
+- 🌐 Website: [https://www.atlaslab.io/](https://www.atlaslab.io/)
 - 🐥 Twitter/X: [@AtlasLabAI](https://x.com/AtlasLabAI)
-- 📧 Email: [Coming Soon]
+- 📧 Email: [info@atlaslab.io]
 - 🗂 GitHub: [github.com/AtlasLabAI](https://github.com/AtlasLabAI)
 
 ---
